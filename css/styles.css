@@ -8,3 +8,17 @@
 * {
     outline: 1px dotted black;
 }
+
+/******************************
+Flickity Styling
+******************************/
+/* Style carousel container */
+.carousel {
+  background: gray;
+}
+
+/* Style individual carousel-cell content */
+.carousel .cell {
+  background: gray;
+  width: 100%;
+}
