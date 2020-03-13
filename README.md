@@ -1,7 +1,7 @@
 # Web 2 - Username.GitHub.io - Example
 
 
-[![https://www.netlify.com/img/deploy/button.svg](https://app.netlify.com/start/deploy?repository=github.com/ewuweblab/web-2-final-example)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=github.com/ewuweblab/web-2-final-example)
 
 Sample `Username.GitHub.io` website with: 
 
