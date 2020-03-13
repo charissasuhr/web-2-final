@@ -1,6 +1,7 @@
 # Web 2 - Username.GitHub.io - Example
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1a1bbf17-8762-449e-802d-f3c103e36957/deploy-status)](https://app.netlify.com/sites/web-2-final-example/deploys)
+
+![https://www.netlify.com/img/deploy/button.sv](https://app.netlify.com/start/deploy?repository=github.com/ewuweblab/web-2-final-example)
 
 Sample `Username.GitHub.io` website with: 
 
@@ -13,4 +14,3 @@ Sample `Username.GitHub.io` website with:
 * 404 Page
 * Contact Form
  
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1a1bbf17-8762-449e-802d-f3c103e36957/deploy-status)](https://app.netlify.com/sites/web-2-final-example/deploys)
