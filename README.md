@@ -10,7 +10,10 @@ Sample `Username.GitHub.io` website with:
 
 ## Requirements
 * Favicons
+* Bio
+* Image
 * Portfolio with at least 3 items
-* 404 Page
 * Contact Form
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=github.com/ewuweblab/web-2-final-example)
  
