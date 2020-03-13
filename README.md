@@ -5,15 +5,13 @@
 
 Sample `Username.GitHub.io` website with: 
 
-* All UI Patterns aka the "Kitchen Sink"
-  * Note: Of course no-one would use *all* patterns. Pick what works for you. 
-
 ## Requirements
-* Favicons
+* Add your Content
+* Add your Designs
 * Bio
 * Image
 * Portfolio with at least 3 items
-* Contact Form
+* Setup Contact Form
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=github.com/ewuweblab/web-2-final-example)
  
